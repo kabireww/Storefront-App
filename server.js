@@ -6,7 +6,7 @@
 * 
 *  Name: Kabir Donda Student ID: 140630229 Date: 15 February,2024
 
-*  Cyclic Web App URL: 
+*  Cyclic Web App URL: https://good-ruby-elk-wrap.cyclic.app/Shop
 * 
 *  GitHub Repository URL: https://github.com/kabireww/Storefront-App
 *
